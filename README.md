@@ -1,4 +1,4 @@
-# Numerical Methods [![Actions Status](https://github.com/cfgnunes/numerical-methods-python/workflows/build/badge.svg)](https://github.com/cfgnunes/numerical-methods-python/actions)
+# Numerical Methods [![Actions Status](https://github.com/cfgnunes/numerical-methods-python/workflows/build/badge.svg)](https://github.com/ThisIs-Developer/Numerical-Method)
 
 ### Numerical methods implementation in C.
 
